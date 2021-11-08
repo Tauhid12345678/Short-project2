@@ -1,0 +1,40 @@
+
+body{
+    background-image: url(https://www.laoistoday.ie/wp-content/uploads/2017/08/TV-Cameras.jpg);
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.navbar ul li a{
+     transition: .4s;
+    font-family: sans-serif;
+}
+ul li a:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.ttt{
+    width: 800px;
+    height: 500px;
+    margin-top: 150px;
+    
+}
+.button-line{
+    width: 220px;
+}
+.footer{
+    width: 100%;
+    height: 100px;
+}
+
+.icons{
+    width: 180px;
+}
+.icons i{
+    font-size: 25px;
+    color: crimson;
+    transition: .4s;
+}
+.icons i:hover{
+    transform: scale(.8);
+}
